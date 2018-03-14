@@ -1,3 +1,7 @@
+## componentes
+
+![Flujo-1](img/img.jpg)
+
 # React | babel | webpack | configuración base para empezar un proyecto.
 
 Aquí encontrarás la estructura y configuración básica para empezar un proyecto con react
